@@ -1,5 +1,5 @@
 # Educato
-Web page UI design with HTML and CSS.
+Web page design with HTML and CSS.
 
 
 Inspired by Valeria Rimkevich (https://dribbble.com/shots/14392820-Educato-landing/)
